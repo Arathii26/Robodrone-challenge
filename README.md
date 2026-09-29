@@ -1,5 +1,8 @@
 # Robodrone-challenge
 
+AARTHI S
+SWETHA C R
+VRINDALAKSHMI
 
 DRIVE LINK: https://drive.google.com/file/d/1M-v8KsY08CC9TddynfStKIMYh17a2eRG/view?usp=drive_link
 
